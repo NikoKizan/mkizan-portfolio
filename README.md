@@ -1,2 +1,2 @@
 # mkizan-portfolio.github.io
-Мій перший сайт
+https://nikokizan.github.io/mkizan-portfolio/
